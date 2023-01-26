@@ -1,13 +1,3 @@
-//metadata declarations
-///////////////////////////////////////////////////////
-metadata bicepRegistry = {
-  name: 'NSG'
-  description: 'NSG module'
-  owner: 'Paul Jones'
-  version: '1.0.0'
-}
-
-
 //Parameters declarations
 /////////////////////////////////////////////////////
 

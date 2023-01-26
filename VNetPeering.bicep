@@ -1,13 +1,3 @@
-//metadata declarations
-///////////////////////////////////////////////////////
-metadata bicepRegistry = {
-  name: 'VNET'
-  description: 'VNet with Subnets module'
-  owner: 'Paul Jones'
-  version: '1.0.0'
-}
-
-
 // Parameter declarations
 /////////////////////////////////////////////////////////
 

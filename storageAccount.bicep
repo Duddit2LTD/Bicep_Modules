@@ -1,13 +1,3 @@
-//metadata declarations
-///////////////////////////////////////////////////////
-metadata bicepRegistry = {
-  name: 'StorageAccount'
-  description: 'Simple storage account module'
-  owner: 'Paul Jones'
-  version: '1.0.0'
-}
-
-
 //Parameters declarations
 /////////////////////////////////////////////////////
 
